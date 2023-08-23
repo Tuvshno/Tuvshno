@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 🚀 About Me  
-🎓 I am Tuvshinbayar Otgonbayar, a Full-Stack Developer (specializing in React Applications). I am also a Freelance Video Editor working in the Esports Industry. My passion for tech and editing has led me down a unique path where I blend both to create tools that help improve my daily workflow.  
+I am Tuvshinbayar Otgonbayar, a Full-Stack Developer (specializing in React Applications). I am also a Freelance Video Editor working in the Esports Industry. My passion for tech and editing has led me down a unique path where I blend both to create tools that help improve my daily workflow.  
 
-🛠️ Skills
+🛠️ Skills  
 **Full-Stack Development**: Specializing in React-based applications.  
 **Video Editing**: Experienced in the Esports Industry.  
 **Automation & Scripting**: Automation tools for Premiere Pro.  
