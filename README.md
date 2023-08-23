@@ -6,8 +6,7 @@ I am Tuvshinbayar Otgonbayar, a Full-Stack Developer (specializing in React Appl
 ### 🛠️ Skills  
 **Full-Stack Development**: Specializing in React-based applications.  
 **Video Editing**: Experienced in the Esports Industry.  
-**Automation & Scripting**: Automation tools for Premiere Pro.  
-**UI/UX**: Creating intuitive and visually appealing applications.  
+**Automation & Scripting**: Automation tools for Premiere Pro.   
 **Testing**: Internship experience as Test Engineer.  
 
 ### Languages  
